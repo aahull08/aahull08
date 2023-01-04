@@ -1,4 +1,4 @@
-### Hi there 👋, I am Aaron.
+### Hi there 👋, I'm Aaron.
 
 I am a full-stack Software Engineer based in Austin, TX.
 
